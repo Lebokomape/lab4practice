@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    Marven bo;
+    Marven Komape;
     return 0;
 }
